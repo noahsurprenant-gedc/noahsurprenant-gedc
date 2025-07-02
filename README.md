@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Noah
 
-<!--
-**noahsurprenant-gedc/noahsurprenant-gedc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Software Developer @ Great Expressions  
 
-Here are some ideas to get you started:
+### 🚀 What I'm Up To
+- 🔭 Currently containerizing our legacy applications (fun times!)
+- 🌱 Learning all things Kubernetes & cloud orchestration
+- 👯 Excited to collaborate on cloud-native CI/CD pipelines
+- 🤔 Digging deeper into how business logic intertwines with legacy systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let’s Talk About
+- 🐱 Cats (the fluffier, the better)
+- 🚴‍♂️ Cycling for that post-debug clarity
+- 🧠 Anything nerdy—from architecture patterns to lore deep-dives
+
+### 📬 Reach Me On
+- 💼 Microsoft Teams
+- 🌐 Fun fact: [My website](https://noahsurprenant.com) is modeled after *the Skyrim loading screen* ⚔️
